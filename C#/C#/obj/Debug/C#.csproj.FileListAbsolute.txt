@@ -1,0 +1,7 @@
+C:\Users\223097357\source\repos\C#\C#\bin\Debug\C#.exe.config
+C:\Users\223097357\source\repos\C#\C#\bin\Debug\C#.exe
+C:\Users\223097357\source\repos\C#\C#\bin\Debug\C#.pdb
+C:\Users\223097357\source\repos\C#\C#\obj\Debug\C#.csproj.AssemblyReference.cache
+C:\Users\223097357\source\repos\C#\C#\obj\Debug\C#.csproj.CoreCompileInputs.cache
+C:\Users\223097357\source\repos\C#\C#\obj\Debug\C#.exe
+C:\Users\223097357\source\repos\C#\C#\obj\Debug\C#.pdb
